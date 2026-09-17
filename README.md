@@ -208,10 +208,10 @@ Economia gerada (verde)  : R$ 0.51
 
 ## 9. 🎥 Vídeo Demonstrativo
 
-
+https://youtu.be/DTuNJHXfYBg
 
 ---
 
 ## 10. 🔗 Repositório
 
-
+https://github.com/zappelloni/Estacao-LightWeek-Sprint3
