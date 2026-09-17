@@ -208,10 +208,10 @@ Economia gerada (verde)  : R$ 0.51
 
 ## 9. 🎥 Vídeo Demonstrativo
 
-*(a preencher com o link do YouTube, modo não listado)*
+
 
 ---
 
 ## 10. 🔗 Repositório
 
-*(a preencher com o link do GitHub desta Sprint)*
+
